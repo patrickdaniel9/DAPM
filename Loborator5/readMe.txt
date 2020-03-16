@@ -1,0 +1,1 @@
+aplicatia nu functioneaza pe telefon, se deschide si apoi se inchide, desi am atins toate punctele.
