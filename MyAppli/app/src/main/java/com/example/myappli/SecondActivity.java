@@ -19,11 +19,7 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.secondactivity);
         textView = findViewById(R.id.text2);
-
         newGame();
-
-
-
     }
     public void test(View view){
         EditText input = (EditText) findViewById(R.id.text1);
@@ -31,7 +27,6 @@ public class SecondActivity extends AppCompatActivity {
             validate(input);
         }
     }
-
     public void validate(EditText input){
 
         EditText editText=findViewById(R.id.text1);
